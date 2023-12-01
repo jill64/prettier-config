@@ -13,3 +13,13 @@ npm i @jill64/prettier-config
 ```
 
 <!----- END GHOST DOCS HEADER ----->
+
+## Usage
+
+in package.json
+
+```json
+{
+  "prettier": "@jill64/prettier-config"
+}
+```
