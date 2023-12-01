@@ -1,6 +1,6 @@
 {
   "name": "@jill64/prettier-config",
-  "description": "",
+  "description": "🅿️ Reusable My Prettier Config",
   "version": "0.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -10,7 +10,9 @@
   "homepage": "https://github.com/jill64/prettier-config#readme",
   "files": [
     "dist",
-    "!**/*.test.*"
+    "!**/*.test.*",
+    "!*.test.*",
+    "!*.spec.*"
   ],
   "exports": {
     ".": {
