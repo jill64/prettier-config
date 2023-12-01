@@ -1,0 +1,42 @@
+{
+  "name": "@jill64/prettier-config",
+  "description": "🅿️ Reusable My Prettier Config",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "bugs": "https://github.com/jill64/prettier-config/issues",
+  "homepage": "https://github.com/jill64/prettier-config#readme",
+  "files": [
+    "dist",
+    "!**/*.test.*",
+    "!*.test.*",
+    "!*.spec.*"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jill64/prettier-config.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [],
+  "scripts": {
+    "build": "tsc && npx publint",
+    "prepack": "npm run build",
+    "lint": "npx eslint . && npx depcheck",
+    "format": "tsc && npx prettier -w ."
+  },
+  "devDependencies": {
+    "@jill64/eslint-config-ts": "0.1.0",
+    "prettier": "3.1.0",
+    "typescript": "5.3.2"
+  }
+}
