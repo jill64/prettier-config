@@ -27,7 +27,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "config",
+    "prettier"
+  ],
+  "prettier": "@jill64/prettier-config",
   "scripts": {
     "build": "tsc && npx publint",
     "prepack": "npm run build",
@@ -36,6 +40,7 @@
   },
   "devDependencies": {
     "@jill64/eslint-config-ts": "0.1.0",
+    "@jill64/prettier-config": "0.0.1",
     "prettier": "3.1.0",
     "typescript": "5.3.2"
   }
