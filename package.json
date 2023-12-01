@@ -27,7 +27,10 @@
   "publishConfig": {
     "access": "public"
   },
-  "keywords": [],
+  "keywords": [
+    "config",
+    "prettier"
+  ],
   "prettier": "@jill64/prettier-config",
   "scripts": {
     "build": "tsc && npx publint",
