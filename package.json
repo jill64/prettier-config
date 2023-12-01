@@ -1,6 +1,7 @@
 {
   "name": "@jill64/prettier-config",
   "description": "",
+  "version": "0.0.0",
   "type": "module",
   "main": "dist/index.js",
   "license": "MIT",
