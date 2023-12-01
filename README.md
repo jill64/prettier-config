@@ -1,2 +1,3 @@
-# prettier-config
-🅿️ Reusable My Prettier Config
+<!----- BEGIN GHOST DOCS HEADER ----->
+
+<!----- END GHOST DOCS HEADER ----->
