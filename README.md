@@ -6,13 +6,13 @@
 
 🅿️ Reusable My Prettier Config
 
+<!----- END GHOST DOCS HEADER ----->
+
 ## Installation
 
 ```sh
 npm i @jill64/prettier-config
 ```
-
-<!----- END GHOST DOCS HEADER ----->
 
 ## Usage
 
