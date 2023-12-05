@@ -1,7 +1,7 @@
 {
   "name": "@jill64/prettier-config",
   "description": "🅿️ Reusable My Prettier Config",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "main": "prettier.config.cjs",
   "license": "MIT",
   "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
