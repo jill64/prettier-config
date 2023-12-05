@@ -22,7 +22,8 @@
   },
   "keywords": [
     "config",
-    "prettier"
+    "prettier",
+    "reusable"
   ],
   "scripts": {
     "lint": "npx publint",
