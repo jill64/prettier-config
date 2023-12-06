@@ -11,7 +11,7 @@
 ## Installation
 
 ```sh
-npm i @jill64/prettier-config
+npm i -D @jill64/prettier-config
 ```
 
 ## Usage
