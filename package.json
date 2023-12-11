@@ -4,7 +4,12 @@
   "version": "1.0.0",
   "main": "prettier.config.cjs",
   "license": "MIT",
-  "author": "jill64 <intents.turrets0h@icloud.com> (https://github.com/jill64)",
+  "author": {
+    "name": "jill64",
+    "email": "143883742+jill64@users.noreply.github.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
   "bugs": "https://github.com/jill64/prettier-config/issues",
   "homepage": "https://github.com/jill64/prettier-config#readme",
   "files": [
@@ -15,7 +20,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/prettier-config.git"
+    "url": "https://github.com/jill64/prettier-config.git",
+    "image": "https://opengraph.githubassets.com/aba127d9112db94731d0ba127b6cf62ad8dcfa775cc40643d275a755f437459a/jill64/prettier-config"
   },
   "publishConfig": {
     "access": "public"
@@ -30,6 +36,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "prettier": "3.1.0"
-  }
+    "prettier": "3.1.1"
+  },
+  "prettier": "@jill64/prettier-config"
 }
