@@ -1,8 +1,12 @@
 <!----- BEGIN GHOST DOCS HEADER ----->
 
-# prettier-config
+# @jill64/prettier-config
 
-[![npm-version](https://img.shields.io/npm/v/@jill64/prettier-config)](https://npmjs.com/package/@jill64/prettier-config) [![npm-license](https://img.shields.io/npm/l/@jill64/prettier-config)](https://npmjs.com/package/@jill64/prettier-config) [![npm-download-month](https://img.shields.io/npm/dm/@jill64/prettier-config)](https://npmjs.com/package/@jill64/prettier-config) [![npm-min-size](https://img.shields.io/bundlephobia/min/@jill64/prettier-config)](https://npmjs.com/package/@jill64/prettier-config)
+
+<!----- BEGIN GHOST DOCS BADGES ----->
+<a href="https://npmjs.com/package/@jill64/prettier-config"><img src="https://img.shields.io/npm/v/@jill64/prettier-config" alt="npm-version" /></a> <a href="https://npmjs.com/package/@jill64/prettier-config"><img src="https://img.shields.io/npm/l/@jill64/prettier-config" alt="npm-license" /></a> <a href="https://npmjs.com/package/@jill64/prettier-config"><img src="https://img.shields.io/npm/dm/@jill64/prettier-config" alt="npm-download-month" /></a> <a href="https://npmjs.com/package/@jill64/prettier-config"><img src="https://img.shields.io/bundlephobia/min/@jill64/prettier-config" alt="npm-min-size" /></a>
+<!----- END GHOST DOCS BADGES ----->
+
 
 🅿️ Reusable My Prettier Config
 
@@ -23,3 +27,11 @@ in package.json
   "prettier": "@jill64/prettier-config"
 }
 ```
+
+<!----- BEGIN GHOST DOCS FOOTER ----->
+
+## License
+
+MIT
+
+<!----- END GHOST DOCS FOOTER ----->
