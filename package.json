@@ -36,7 +36,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "prettier": "3.2.0"
+    "prettier": "3.2.1"
   },
   "prettier": "@jill64/prettier-config"
 }
