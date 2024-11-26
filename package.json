@@ -20,8 +20,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jill64/prettier-config.git",
-    "image": "https://opengraph.githubassets.com/27bdf0522f83590555e9689eec5d2f7feaec4419d1c5b042fa2580813a6d022d/jill64/prettier-config"
+    "url": "git+https://github.com/jill64/prettier-config.git",
+    "image": "https://opengraph.githubassets.com/974c5be0dee90d86cc3c8932e816c7c7dd702872e6f018044118290c9c3cb04f/jill64/prettier-config"
   },
   "publishConfig": {
     "access": "public"
@@ -36,7 +36,7 @@
     "format": "prettier -w ."
   },
   "devDependencies": {
-    "prettier": "3.3.3"
+    "prettier": "3.4.0"
   },
   "prettier": "@jill64/prettier-config"
 }
